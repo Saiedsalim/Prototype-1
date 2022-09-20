@@ -17,4 +17,7 @@ public class PlayerController : MonoBehaviour
         transform.Translate(Vector3.forward * Time.deltaTime*speed);
     }
     public float speed = 20;
+
+    
+    
 }
